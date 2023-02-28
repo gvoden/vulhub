@@ -1,4 +1,4 @@
-FROM buildpack-deps:stretch-scm
+FROM buildpack-deps:kinetic-curl
 
 LABEL maintainer="phithon <root@leavesongs.com>"
 
