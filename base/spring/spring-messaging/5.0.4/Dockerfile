@@ -5,7 +5,7 @@ COPY . /usr/src
 RUN cd /usr/src; \
     mvn package
 
-FROM openjdk:8-jre
+FROM openjdk:20-ea-34-jdk-slim
 
 LABEL maintainer="root <root@leavesongs.com>"
 
