@@ -1,4 +1,4 @@
-FROM node:16
+FROM node:16.19.1-bullseye-slim
 
 LABEL maintainer="phithon <root@leavesongs.com>"
 
