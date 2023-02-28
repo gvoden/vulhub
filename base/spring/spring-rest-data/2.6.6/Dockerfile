@@ -10,7 +10,7 @@ RUN cd /usr/src; \
     mvn clean install
 
 # production
-FROM openjdk:8-jre
+FROM openjdk:20-ea-34-jdk-slim
 
 LABEL maintainer="phithon <root@leavesongs.com>"
 
