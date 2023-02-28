@@ -6,7 +6,7 @@ RUN set -ex \
     && cd /usr/src \
     && mvn package
 
-FROM openjdk:8-jre
+FROM openjdk:21-ea-9-jdk-slim
 
 LABEL maintainer="phithon <root@leavesongs.com>"
 
