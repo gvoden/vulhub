@@ -1,4 +1,4 @@
-FROM openjdk:8-jdk
+FROM openjdk:21-ea-8-jdk-slim
 
 LABEL maintainer="phithon <root@leavesongs.com>"
 
