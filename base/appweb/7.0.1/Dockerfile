@@ -1,4 +1,4 @@
-FROM buildpack-deps:stretch-curl
+FROM buildpack-deps:22.04-curl
 
 RUN set -ex \
     && apt-get update \
