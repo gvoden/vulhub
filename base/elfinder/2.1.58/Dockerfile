@@ -1,4 +1,4 @@
-FROM php:8-zts
+FROM php:cli-buster
 
 LABEL maintainer="phithon <root@leavesongs.com>"
 
