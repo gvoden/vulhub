@@ -1,4 +1,4 @@
-FROM ubuntu:14.04
+FROM ubuntu:rolling
 LABEL maintainer="phithon <root@leavesongs.com>"
 
 COPY install/ /opt/
