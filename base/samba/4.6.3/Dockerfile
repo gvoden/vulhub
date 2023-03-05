@@ -1,4 +1,4 @@
-FROM ubuntu:16.04
+FROM ubuntu:rolling
 
 LABEL maintainer="phithon <root@leavesongs.com>"
 
