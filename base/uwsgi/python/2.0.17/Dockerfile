@@ -1,4 +1,4 @@
-FROM buildpack-deps:stretch-curl
+FROM buildpack-deps:22.04-curl
 
 LABEL maintainer="phithon <root@leavesongs.com>"
 
