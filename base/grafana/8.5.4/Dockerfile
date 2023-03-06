@@ -1,4 +1,4 @@
-FROM grafana/grafana:8.5.4
+FROM grafana/grafana:latest
 
 LABEL maintainer="phithon <root@leavesongs.com>"
 
