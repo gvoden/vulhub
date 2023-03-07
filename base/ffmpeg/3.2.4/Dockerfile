@@ -1,4 +1,4 @@
-FROM debian:9
+FROM debian:bullseye
 
 LABEL maintainer="phithon <root@leavesongs.com>"
 
