@@ -1,3 +1,3 @@
-FROM tomcat:10.1.5
+FROM tomcat:10-jdk11-temurin
 
 LABEL maintainer="phithon <root@leavesongs.com>"
