@@ -1,4 +1,4 @@
-FROM maven:3.9-amazoncorretto-17
+FROM maven:3.9-eclipse-temurin-8
 
 LABEL maintainer="phithon <root@leavesongs.com>"
 
