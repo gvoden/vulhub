@@ -1,3 +1,3 @@
-FROM php:8.2.2-cli
+FROM php:8-cli
 
 LABEL maintainer="phithon <root@leavesongs.com>"
