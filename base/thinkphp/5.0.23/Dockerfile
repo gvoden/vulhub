@@ -1,4 +1,4 @@
-FROM php:8.0.27-cli-bullseye
+FROM php:8.1.16-cli-bullseye
 
 LABEL MAINTAINER="phithon <root@leavesongs.com>"
 
